@@ -10,7 +10,7 @@ public class App implements CommandLineRunner {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(App.class, args);
-		
+		System.err.println("Hello Dev-Ops");
 		
 	}
 
